@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.back-particles-overlay{
+  height: 700px;
+  background:
+      url("/public/images/particles-bg7.svg") no-repeat,
+            linear-gradient(to bottom right, #E2F1FF, white);
+  background-size: cover;
 }
